@@ -1,0 +1,5 @@
+2026-06-04 08:00:12 | SUCCESS | user: admin | IP: 192.168.1.1
+2026-06-04 08:01:45 | FAILED  | user: unknown | IP: 103.45.21.9
+2026-06-04 08:02:10 | SUCCESS | user: johndoe | IP: 192.168.1.5
+2026-06-04 08:03:01 | FAILED  | user: root | IP: 103.45.21.9
+2026-06-04 08:05:22 | FAILED  | user: admin | IP: 172.16.5.12

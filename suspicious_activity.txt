@@ -1,0 +1,28 @@
+============================================
+   LAPORAN AKTIVITAS MENCURIGAKAN - SERVER
+============================================
+Tanggal Generate: Fri Jun 12 09:30:45 GMT+07:00 2026
+--------------------------------------------
+
+Daftar Percobaan Login yang GAGAL:
+--------------------------------------------
+2026-06-04 08:01:45 | FAILED  | user: unknown | IP: 103.45.21.9
+2026-06-04 08:03:01 | FAILED  | user: root | IP: 103.45.21.9
+2026-06-04 08:05:22 | FAILED  | user: admin | IP: 172.16.5.12
+
+--------------------------------------------
+RANGKUMAN LAPORAN:
+Total Percobaan Login Gagal : 3
+
+Frekuensi Gagal per IP Address:
+  - IP 103.45.21.9 : 2 kali
+  - IP 172.16.5.12 : 1 kali
+
+Frekuensi Gagal per Username:
+  - User "unknown" : 1 kali
+  - User "root" : 1 kali
+  - User "admin" : 1 kali
+
+============================================
+          AKHIR LAPORAN KEAMANAN
+============================================
